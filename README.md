@@ -7,6 +7,8 @@ I teach diploma students in computer science and do research on **machine learni
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=T5rE6ccAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7107--8838-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7107-8838)
 [![Kaggle](https://img.shields.io/badge/Kaggle-sayyan-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayyan)
+[![GitHub followers](https://img.shields.io/github/followers/SayyanShaikh?label=Followers&logo=github&style=flat-square)](https://github.com/SayyanShaikh?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=SayyanShaikh&label=Profile%20views&color=1f4e79&style=flat-square)
 
 ### Research interests
 
@@ -40,6 +42,13 @@ I teach diploma students in computer science and do research on **machine learni
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### GitHub stats
+
+<p>
+  <img src="./profile/stats.svg" alt="Sayyan Shaikh's GitHub stats" height="165">
+  <img src="./profile/top-langs.svg" alt="Most used languages" height="165">
+</p>
 
 ### Education
 
