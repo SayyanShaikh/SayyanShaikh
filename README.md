@@ -4,7 +4,6 @@
 
 I teach diploma students in computer science and do research on **machine learning for EEG (brain-signal) stress detection** and **real-time computer vision**.
 
-[![Homepage](https://img.shields.io/badge/Homepage-sayyanshaikh.github.io-1f4e79?style=flat-square)](https://sayyanshaikh.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=T5rE6ccAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7107--8838-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7107-8838)
 [![Kaggle](https://img.shields.io/badge/Kaggle-sayyan-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayyan)
@@ -30,7 +29,6 @@ I teach diploma students in computer science and do research on **machine learni
 | Project | What it does | Built with |
 |---------|--------------|------------|
 | [drowsiness-detection](https://github.com/SayyanShaikh/drowsiness-detection) | Webcam system that spots closed eyes, yawns and head nodding, and gives a spoken alert | Python, OpenCV, dlib |
-| [sayyanshaikh.github.io](https://github.com/SayyanShaikh/SayyanShaikh.github.io) | My academic homepage | HTML, CSS |
 
 ### Tools I use
 
