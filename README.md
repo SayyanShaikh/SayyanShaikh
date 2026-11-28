@@ -20,13 +20,13 @@ I teach diploma students in computer science and do research on **machine learni
 
 ### Publications
 
-1. **[FaceAnchor: A Session-Anchored, Proxy-Resistant Face Recognition Attendance System with Calibrated LBPH Thresholds](https://ijirt.org/article?manuscript=211422)**
+1. **FaceAnchor: A Session-Anchored, Proxy-Resistant Face Recognition Attendance System with Calibrated LBPH Thresholds**
    S. Shaikh, R. N. Shaikh. *International Journal of Innovative Research in Technology (IJIRT)*, 2026.
 2. **NeuroStress AI: An Advanced Electroencephalography-Based Clinical Decision Support System for Real-Time Stress Detection and Risk Stratification**
    S. Shaikh, R. N. Shaikh, P. Bammigatti, M. Badiger. *CISCom 2026, Malta*. To appear in Springer CCIS.
-3. **Adaptive Face Recognition and Emotion Analysis Framework (AFREAF): A Real-Time Multi-Modal Deep Learning System for Comprehensive Facial Attribute Detection**
+3. **[Adaptive Face Recognition and Emotion Analysis Framework (AFREAF): A Real-Time Multi-Modal Deep Learning System for Comprehensive Facial Attribute Detection](https://doi.org/10.65890/dmp-lncse.ICICCS26.206)**
    S. Shaikh, P. Bammigatti, R. N. Shaikh. *DMPedia Lecture Notes in Computer Science & Engineering*, pp. 241–248, 2026.
-4. **OCR Based Mapless Navigation Method of Robot**
+4. **[OCR Based Mapless Navigation Method of Robot](https://www.ijies.org/portfolio-item/h0246071813/)**
    S. N. Shaikh, N. V. Londhe. *International Journal of Inventive Engineering and Sciences*, vol. 1, no. 8, pp. 6–12, 2013.
 
 ### Projects
